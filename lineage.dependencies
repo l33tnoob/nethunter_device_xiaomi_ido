@@ -12,8 +12,10 @@
    "target_path": "external/sony/boringssl-compat"
  },
  {
-   "repository": "android_kernel_xiaomi_msm8916",
+   "repository": "ariafan/ido_kernel-kali",
    "target_path": "kernel/xiaomi/msm8916"
+   "remote": "github"
+   "revision": "kali-new"
  },
  {
    "repository": "android_packages_resources_devicesettings",
